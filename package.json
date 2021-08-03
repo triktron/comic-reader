@@ -55,7 +55,7 @@
     "mkdirp": "^0.5.1",
     "node-downloader-helper": "^1.0.10",
     "node-ipc": "^9.1.1",
-    "tar": ">=4.4.2",
+    "tar": ">=4.4.15",
     "tmp": "^0.1.0"
   },
   "devDependencies": {
